@@ -45,6 +45,11 @@
       <version>7.14.0.Final-redhat-00002</version>
       <scope>provided</scope>
     </dependency>
+    <dependency>
+      <groupId>it.kp</groupId>
+      <artifactId>library</artifactId>
+      <version>1.0</version>
+    </dependency>
   </dependencies>
   <build>
     <plugins>
